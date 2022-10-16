@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490833504 source:d:\Área de trabalho\arquivos ufjf\codeblocks\exercício algoritmos\slide 03\exercício - slide 03 (6)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
